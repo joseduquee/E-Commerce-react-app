@@ -1,0 +1,33 @@
+.text-title {
+    font-weight: 600 !important;
+    color: #494949;
+    margin-bottom: 20px !important;
+}
+
+.text-detail {
+    font-weight: 500 !important;
+    color: #494949;
+    margin-bottom: 15px !important;
+}
+
+.alert-undelivered {
+    margin-top: 5 !important;
+    padding: "15px 15px 5px 15px" !important;
+    margin-bottom: 20 !important;
+    background-color: "#ffcccc" !important;
+}
+
+.alertDelivered {
+    margin-top: 5;
+    padding: "15px 15px 5px 15px";
+    margin-bottom: "20px";
+    background-color: "#d6f5d6";
+}
+
+.spinner {
+    position: fixed; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+}
+

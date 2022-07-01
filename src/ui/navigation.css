@@ -1,0 +1,18 @@
+.list {
+    width: 250px;
+}
+
+.list-item {
+    padding: 0;
+}
+
+.link-app-mobile {
+    display: inline-flex;
+    align-items: center;
+    width: 100%;
+    padding: 8px 16px;
+}
+
+.list-item-icon {
+    min-width: 35px;
+}
